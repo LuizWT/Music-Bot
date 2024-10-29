@@ -1,0 +1,6 @@
+ffmpeg
+discord
+youtube_dl
+discord-ext-bot
+discord.py
+PyNaCl
