@@ -4,4 +4,4 @@ youtube_dl
 discord-ext-bot
 discord.py
 PyNaCl
-audioop
+AudiooPy
